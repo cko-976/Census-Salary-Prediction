@@ -1,1 +1,3 @@
-# Yelp-API-and-Restaurant-Exploritory-Analysis
+# Salary-Prediction
+
+This project is from the 1994 Census data.
